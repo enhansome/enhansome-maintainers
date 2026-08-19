@@ -1,19 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Additional suggestions are welcomed! Check out CONTRIBUTING.md for guidelines.\n(NOTE: If you're a maintainer listed on here who would like to be removed, just open an issue or email me privately.)",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "This list is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). (If you ever want to reference me, find me here! @nayafia But you are in no way required to do so.)",
-      "items": [],
-      "title": "License and attribution"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T15:12:37.476Z",
+    "last_updated": "2026-08-19T12:39:15.252Z",
     "original_repository": "nayafia/awesome-maintainers",
+    "original_repository_id": 118960100,
     "original_repository_sha": "bb996d66445fc441175ab5ae84d471a246a7cfaf",
     "enhanced_repository": "enhansome/enhansome-maintainers",
     "enhanced_repository_description": null,

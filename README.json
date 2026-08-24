@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T13:14:18Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247688
+            "stars": 247689
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-22T03:57:33Z",
+            "last_commit": "2026-08-24T15:22:05Z",
             "owner": "twbs",
             "repo": "bootstrap",
             "stars": 174640
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-24T14:01:36Z",
+            "last_commit": "2026-08-24T14:52:16Z",
             "owner": "react",
             "repo": "react-native",
             "stars": 126405
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 29028775,
             "language": "C++",
-            "last_commit": "2026-08-24T14:01:36Z",
+            "last_commit": "2026-08-24T14:52:16Z",
             "owner": "react",
             "repo": "react-native",
             "stars": 126405
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-24T10:26:47Z",
+            "last_commit": "2026-08-24T15:14:37Z",
             "owner": "rails",
             "repo": "rails",
             "stars": 58709
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-17T19:03:16Z",
             "owner": "psf",
             "repo": "requests",
-            "stars": 54255
+            "stars": 54256
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 53238813,
             "language": "Ruby",
-            "last_commit": "2026-08-24T13:05:19Z",
+            "last_commit": "2026-08-24T14:42:07Z",
             "owner": "Homebrew",
             "repo": "brew",
             "stars": 49259
@@ -196,7 +196,7 @@
             "last_commit": "2026-08-23T14:27:11Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43989
+            "stars": 43990
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-08-23T14:27:11Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43989
+            "stars": 43990
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-08-21T11:32:31Z",
             "owner": "mochajs",
             "repo": "mocha",
-            "stars": 22904
+            "stars": 22905
           }
         },
         {
@@ -449,10 +449,10 @@
             "archived": false,
             "id": 4095287,
             "language": "Ruby",
-            "last_commit": "2026-08-24T11:40:11Z",
+            "last_commit": "2026-08-24T15:21:02Z",
             "owner": "rubocop",
             "repo": "rubocop",
-            "stars": 12898
+            "stars": 12899
           }
         },
         {
@@ -716,7 +716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:36.529Z",
+    "last_updated": "2026-08-24T15:22:46.341Z",
     "original_repository": "nayafia/awesome-maintainers",
     "original_repository_id": 118960100,
     "original_repository_sha": "bb996d66445fc441175ab5ae84d471a246a7cfaf",

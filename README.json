@@ -1,7 +1,722 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "@gaearon",
+          "description": ", React, Redux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10270250,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T13:14:18Z",
+            "owner": "react",
+            "repo": "react",
+            "stars": 247688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@fat",
+          "description": ", Bootstrap",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2126244,
+            "language": "MDX",
+            "last_commit": "2026-08-22T03:57:33Z",
+            "owner": "twbs",
+            "repo": "bootstrap",
+            "stars": 174640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@kelset",
+          "description": ", React Native",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29028775,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:01:36Z",
+            "owner": "react",
+            "repo": "react-native",
+            "stars": 126405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@vjeux",
+          "description": ", React Native, Prettier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29028775,
+            "language": "C++",
+            "last_commit": "2026-08-24T14:01:36Z",
+            "owner": "react",
+            "repo": "react-native",
+            "stars": 126405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jacobian",
+          "description": ", Django",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4164482,
+            "language": "Python",
+            "last_commit": "2026-08-23T19:39:31Z",
+            "owner": "django",
+            "repo": "django",
+            "stars": 88762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@mlavin",
+          "description": ", Django",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4164482,
+            "language": "Python",
+            "last_commit": "2026-08-23T19:39:31Z",
+            "owner": "django",
+            "repo": "django",
+            "stars": 88762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@mpdehaan",
+          "description": ", Ansible, SourceOptics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3638964,
+            "language": "Python",
+            "last_commit": "2026-08-19T18:12:49Z",
+            "owner": "ansible",
+            "repo": "ansible",
+            "stars": 70445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@jeresig",
+          "description": ", jQuery",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167174,
+            "language": "JavaScript",
+            "last_commit": "2026-08-20T15:09:49Z",
+            "owner": "jquery",
+            "repo": "jquery",
+            "stars": 59771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@steveklabnik",
+          "description": ", Ruby on Rails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T10:26:47Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@kennethreitz",
+          "description": ", requests",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1362490,
+            "language": "Python",
+            "last_commit": "2026-08-17T19:03:16Z",
+            "owner": "psf",
+            "repo": "requests",
+            "stars": 54255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@alyssais",
+          "description": ", Homebrew",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53238813,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T13:05:19Z",
+            "owner": "Homebrew",
+            "repo": "brew",
+            "stars": 49259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@hzoo",
+          "description": ", Babel",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"Through the Open Source Looking Glass\" (video",
+              "description": ", slides)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145168484,
+                "language": "JavaScript",
+                "last_commit": "2018-08-22T19:38:18Z",
+                "owner": "hzoo",
+                "repo": "through-the-open-source-looking-glass",
+                "stars": 21
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 24560307,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T14:27:11Z",
+            "owner": "babel",
+            "repo": "babel",
+            "stars": 43989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@sebmck",
+          "description": ", Babel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24560307,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T14:27:11Z",
+            "owner": "babel",
+            "repo": "babel",
+            "stars": 43989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@KrauseFx",
+          "description": ", fastlane",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27442967,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T00:55:28Z",
+            "owner": "fastlane",
+            "repo": "fastlane",
+            "stars": 42020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@feross",
+          "description": ", WebTorrent",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13584262,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T16:56:04Z",
+            "owner": "webtorrent",
+            "repo": "webtorrent",
+            "stars": 31369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@Seldaek",
+          "description": ", Composer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1864363,
+            "language": "PHP",
+            "last_commit": "2026-08-24T06:46:17Z",
+            "owner": "composer",
+            "repo": "composer",
+            "stars": 29503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ariya",
+          "description": ", PhantomJS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1200050,
+            "language": "C++",
+            "last_commit": "2022-11-26T19:43:12Z",
+            "owner": "ariya",
+            "repo": "phantomjs",
+            "stars": 29452
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@mikeal",
+          "description": ", request",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"Request's Past, Present and Future\" (post",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1283503,
+                "language": "JavaScript",
+                "last_commit": "2024-08-14T00:09:41Z",
+                "owner": "request",
+                "repo": "request",
+                "stars": 25513
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 1283503,
+            "language": "JavaScript",
+            "last_commit": "2024-08-14T00:09:41Z",
+            "owner": "request",
+            "repo": "request",
+            "stars": 25513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@lmccart",
+          "description": ", p5.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8424040,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T20:49:58Z",
+            "owner": "processing",
+            "repo": "p5.js",
+            "stars": 23892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@boneskull",
+          "description": ", Mocha",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1451352,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T11:32:31Z",
+            "owner": "mochajs",
+            "repo": "mocha",
+            "stars": 22904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@sindresorhus",
+          "description": ", AVA, awesome",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26820798,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T10:19:10Z",
+            "owner": "avajs",
+            "repo": "ava",
+            "stars": 20830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@nolanlawson",
+          "description": ", PouchDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 714074,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T09:39:22Z",
+            "owner": "apache",
+            "repo": "pouchdb",
+            "stars": 17599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@kris-nova",
+          "description": ", kubernetes-kops",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62091339,
+            "language": "Go",
+            "last_commit": "2026-08-24T13:59:01Z",
+            "owner": "kubernetes",
+            "repo": "kops",
+            "stars": 16667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@fatih",
+          "description": ", vim-go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18062944,
+            "language": "Vim Script",
+            "last_commit": "2026-08-23T13:41:54Z",
+            "owner": "fatih",
+            "repo": "vim-go",
+            "stars": 16216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ashfurrow",
+          "description": ", Moya",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23013268,
+            "language": "Swift",
+            "last_commit": "2026-07-14T22:07:40Z",
+            "owner": "Moya",
+            "repo": "Moya",
+            "stars": 15359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@amjith",
+          "description": ", pgcli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25126616,
+            "language": "Python",
+            "last_commit": "2026-08-18T05:17:30Z",
+            "owner": "dbcli",
+            "repo": "pgcli",
+            "stars": 13364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@brianc",
+          "description": ", node-postgres",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 991475,
+            "language": "JavaScript",
+            "last_commit": "2026-08-18T22:27:03Z",
+            "owner": "brianc",
+            "repo": "node-postgres",
+            "stars": 13196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@bbatsov",
+          "description": ", Rubocop",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4095287,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T11:40:11Z",
+            "owner": "rubocop",
+            "repo": "rubocop",
+            "stars": 12898
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@stuarthalloway",
+          "description": ", Clojure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747512,
+            "language": "Java",
+            "last_commit": "2026-07-29T16:27:44Z",
+            "owner": "clojure",
+            "repo": "clojure",
+            "stars": 10952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@colcarroll",
+          "description": ", PyMC3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192904,
+            "language": "Python",
+            "last_commit": "2026-08-17T23:18:21Z",
+            "owner": "pymc-devs",
+            "repo": "pymc",
+            "stars": 9721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ericholscher",
+          "description": ", Read the Docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 841835,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:43:28Z",
+            "owner": "readthedocs",
+            "repo": "readthedocs.org",
+            "stars": 8377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@evancz",
+          "description": ", Elm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4072305,
+            "language": "Haskell",
+            "last_commit": "2026-07-13T14:09:18Z",
+            "owner": "elm",
+            "repo": "compiler",
+            "stars": 7884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@janl",
+          "description": ", CouchDB",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206417,
+            "language": "Erlang",
+            "last_commit": "2026-08-24T03:49:27Z",
+            "owner": "apache",
+            "repo": "couchdb",
+            "stars": 6940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@nathanmarz",
+          "description": ", Apache Storm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14135470,
+            "language": "Java",
+            "last_commit": "2026-08-24T11:44:02Z",
+            "owner": "apache",
+            "repo": "storm",
+            "stars": 6698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ceejbot",
+          "description": ", Entropic, npm",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"The economics of open source\" (video",
+              "description": ", post)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189234320,
+                "language": null,
+                "last_commit": "2019-06-10T09:05:53Z",
+                "owner": "ceejbot",
+                "repo": "economics-of-package-management",
+                "stars": 480
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 182423586,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T23:46:54Z",
+            "owner": "entropic-dev",
+            "repo": "entropic",
+            "stars": 5242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@danielbachhuber",
+          "description": ", wp-cli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2360755,
+            "language": "PHP",
+            "last_commit": "2026-08-24T08:20:49Z",
+            "owner": "wp-cli",
+            "repo": "wp-cli",
+            "stars": 5141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@tgamblin",
+          "description": ", Spack",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15730865,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:37:25Z",
+            "owner": "spack",
+            "repo": "spack",
+            "stars": 5111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@tbrisker",
+          "description": ", Foreman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258750,
+            "language": "Ruby",
+            "last_commit": "2026-08-24T12:49:24Z",
+            "owner": "theforeman",
+            "repo": "foreman",
+            "stars": 2907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@dominictarr",
+          "description": ", scuttlebot and others",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25894747,
+            "language": "JavaScript",
+            "last_commit": "2022-06-17T15:11:15Z",
+            "owner": "ssbc",
+            "repo": "ssb-server",
+            "stars": 1702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@Schneems",
+          "description": ", Sprockets, CodeTriage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32104924,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T16:24:11Z",
+            "owner": "rails",
+            "repo": "sprockets",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@ctb",
+          "description": "& @mr-c, khmer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4331833,
+            "language": "Python",
+            "last_commit": "2024-02-17T11:37:33Z",
+            "owner": "dib-lab",
+            "repo": "khmer",
+            "stars": 790
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@Trott",
+          "description": ", slug",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154614115,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T12:40:54Z",
+            "owner": "Trott",
+            "repo": "slug",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@antirez",
+          "description": ", Redis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 960061807,
+            "language": "C",
+            "last_commit": "2026-08-13T11:07:27Z",
+            "owner": "antirez",
+            "repo": "redis",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@stewartsmith",
+          "description": ", Skiboot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21414075,
+            "language": "C",
+            "last_commit": "2026-08-21T15:07:01Z",
+            "owner": "open-power",
+            "repo": "skiboot",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T15:00:23.973Z",
+    "last_updated": "2026-08-24T14:12:36.529Z",
     "original_repository": "nayafia/awesome-maintainers",
     "original_repository_id": 118960100,
     "original_repository_sha": "bb996d66445fc441175ab5ae84d471a246a7cfaf",

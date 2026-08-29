@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The library for web and native user interfaces.",
+            "homepage": "https://react.dev",
             "id": 10270250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:10:40Z",
+            "open_issues": 1281,
             "owner": "react",
             "repo": "react",
-            "stars": 248010
+            "stars": 248015,
+            "topics": [
+              "declarative",
+              "frontend",
+              "javascript",
+              "library",
+              "react",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -26,12 +38,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "homepage": "https://getbootstrap.com",
             "id": 2126244,
             "language": "MDX",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:30:38Z",
+            "open_issues": 224,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174667
+            "stars": 174667,
+            "topics": [
+              "bootstrap",
+              "css",
+              "css-framework",
+              "html",
+              "javascript",
+              "sass",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -42,12 +67,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for building native applications using React",
+            "homepage": "https://reactnative.dev",
             "id": 29028775,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:53:52Z",
+            "open_issues": 1103,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126443
+            "stars": 126447,
+            "topics": [
+              "android",
+              "app-framework",
+              "cross-platform",
+              "ios",
+              "mobile",
+              "mobile-development",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -58,12 +97,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for building native applications using React",
+            "homepage": "https://reactnative.dev",
             "id": 29028775,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:53:52Z",
+            "open_issues": 1103,
             "owner": "react",
             "repo": "react-native",
-            "stars": 126443
+            "stars": 126447,
+            "topics": [
+              "android",
+              "app-framework",
+              "cross-platform",
+              "ios",
+              "mobile",
+              "mobile-development",
+              "react",
+              "react-native"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -74,12 +127,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Web framework for perfectionists with deadlines.",
+            "homepage": "https://www.djangoproject.com/",
             "id": 4164482,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T21:49:05Z",
+            "open_issues": 479,
             "owner": "django",
             "repo": "django",
-            "stars": 89027
+            "stars": 89029,
+            "topics": [
+              "apps",
+              "django",
+              "framework",
+              "models",
+              "orm",
+              "python",
+              "templates",
+              "views",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -90,12 +158,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Web framework for perfectionists with deadlines.",
+            "homepage": "https://www.djangoproject.com/",
             "id": 4164482,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T21:49:05Z",
+            "open_issues": 479,
             "owner": "django",
             "repo": "django",
-            "stars": 89027
+            "stars": 89029,
+            "topics": [
+              "apps",
+              "django",
+              "framework",
+              "models",
+              "orm",
+              "python",
+              "templates",
+              "views",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -106,12 +189,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+            "homepage": "https://www.ansible.com/",
             "id": 3638964,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T14:26:26Z",
+            "open_issues": 836,
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70489
+            "stars": 70491,
+            "topics": [
+              "ansible",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -122,12 +213,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jQuery JavaScript Library",
+            "homepage": "https://jquery.com",
             "id": 167174,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T15:09:49Z",
+            "open_issues": 102,
             "owner": "jquery",
             "repo": "jquery",
-            "stars": 59776
+            "stars": 59775,
+            "topics": [
+              "jquery"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -138,12 +236,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby on Rails",
+            "homepage": "https://rubyonrails.org",
             "id": 8514,
             "language": "Ruby",
-            "last_commit": "2026-08-28T18:53:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:44:47Z",
+            "open_issues": 1606,
             "owner": "rails",
             "repo": "rails",
-            "stars": 58728
+            "stars": 58729,
+            "topics": [
+              "activejob",
+              "activerecord",
+              "framework",
+              "html",
+              "mvc",
+              "rails",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -154,12 +265,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, yet elegant, HTTP library.",
+            "homepage": "https://requests.readthedocs.io/en/latest/",
             "id": 1362490,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T00:45:59Z",
+            "open_issues": 234,
             "owner": "psf",
             "repo": "requests",
-            "stars": 54258
+            "stars": 54260,
+            "topics": [
+              "client",
+              "cookies",
+              "forhumans",
+              "http",
+              "humans",
+              "python",
+              "python-requests",
+              "requests"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -170,12 +295,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍺 The Package Manager for Everywhere",
+            "homepage": "https://brew.sh",
             "id": 53238813,
             "language": "Ruby",
-            "last_commit": "2026-08-28T18:18:28Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-29T02:10:47Z",
+            "open_issues": 10,
             "owner": "Homebrew",
             "repo": "brew",
-            "stars": 49310
+            "stars": 49312,
+            "topics": [
+              "brew",
+              "homebrew",
+              "macos",
+              "package-manager",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -191,24 +327,46 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"Through the (Open Source) Looking Glass\" React Rally 2018",
+                "homepage": "http://hzoo.github.io/through-the-open-source-looking-glass",
                 "id": 145168484,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-08-22T19:38:18Z",
+                "open_issues": 0,
                 "owner": "hzoo",
                 "repo": "through-the-open-source-looking-glass",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "react-rally",
+                  "slides",
+                  "talk"
+                ]
               },
               "first_seen": "2026-08-28T23:41:54.485Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -219,12 +377,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -235,12 +406,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+            "homepage": "https://fastlane.tools",
             "id": 27442967,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:13:50Z",
+            "open_issues": 673,
             "owner": "fastlane",
             "repo": "fastlane",
-            "stars": 42038
+            "stars": 42039,
+            "topics": [
+              "android",
+              "apps",
+              "automation",
+              "deployment",
+              "fastlane",
+              "hacktoberfest",
+              "ios",
+              "mobile",
+              "ruby",
+              "screenshots"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -251,12 +438,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️ Streaming torrent client for the web",
+            "homepage": "https://webtorrent.io",
             "id": 13584262,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T21:03:14Z",
+            "open_issues": 83,
             "owner": "webtorrent",
             "repo": "webtorrent",
-            "stars": 31372
+            "stars": 31372,
+            "topics": [
+              "bittorrent",
+              "browser",
+              "hacktoberfest",
+              "javascript",
+              "nodejs",
+              "p2p",
+              "streaming",
+              "torrent",
+              "webrtc",
+              "webtorrent"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -267,12 +470,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency Manager for PHP",
+            "homepage": "https://getcomposer.org/",
             "id": 1864363,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:14:04Z",
+            "open_issues": 155,
             "owner": "composer",
             "repo": "composer",
-            "stars": 29505
+            "stars": 29506,
+            "topics": [
+              "composer",
+              "dependency-manager",
+              "package-manager",
+              "packages",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -283,12 +497,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Scriptable Headless Browser",
+            "homepage": "http://phantomjs.org",
             "id": 1200050,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-11-26T19:43:12Z",
+            "open_issues": 14,
             "owner": "ariya",
             "repo": "phantomjs",
-            "stars": 29446
+            "stars": 29446,
+            "topics": [
+              "automation",
+              "headless",
+              "headless-browser",
+              "phantomjs"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -304,24 +528,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏊🏾 Simplified HTTP request client.",
+                "homepage": null,
                 "id": 1283503,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-14T00:09:41Z",
+                "open_issues": 143,
                 "owner": "request",
                 "repo": "request",
-                "stars": 25512
+                "stars": 25512,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:41:54.485Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "🏊🏾 Simplified HTTP request client.",
+            "homepage": null,
             "id": 1283503,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-14T00:09:41Z",
+            "open_issues": 143,
             "owner": "request",
             "repo": "request",
-            "stars": 25512
+            "stars": 25512,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -332,12 +566,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. Looking for p5.js 2.0? http://beta.p5js.org",
+            "homepage": "http://p5js.org/",
             "id": 8424040,
             "language": "JavaScript",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-28T14:01:25Z",
+            "open_issues": 510,
             "owner": "processing",
             "repo": "p5.js",
-            "stars": 23914
+            "stars": 23914,
+            "topics": [
+              "art",
+              "creative-coding",
+              "design",
+              "education",
+              "graphics",
+              "html",
+              "javascript",
+              "learning",
+              "p5js",
+              "processing",
+              "sound"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -348,12 +599,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser",
+            "homepage": "https://mochajs.org",
             "id": 1451352,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:13:59Z",
+            "open_issues": 267,
             "owner": "mochajs",
             "repo": "mocha",
-            "stars": 22907
+            "stars": 22907,
+            "topics": [
+              "bdd",
+              "browser",
+              "javascript",
+              "mocha",
+              "mochajs",
+              "node",
+              "nodejs",
+              "tdd",
+              "test",
+              "test-framework",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -364,12 +633,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js test runner that lets you develop with confidence 🚀",
+            "homepage": null,
             "id": 26820798,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-17T10:19:10Z",
+            "open_issues": 73,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20830
+            "stars": 20830,
+            "topics": [
+              "assert",
+              "async",
+              "async-functions",
+              "ava",
+              "cli",
+              "cli-app",
+              "concurrency",
+              "javascript",
+              "node",
+              "nodejs",
+              "performance",
+              "tap",
+              "tdd",
+              "test-framework",
+              "test-runner",
+              "testing",
+              "unicorns",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -380,12 +673,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":kangaroo: - PouchDB is a pocket-sized database.",
+            "homepage": "https://pouchdb.com/",
             "id": 714074,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T14:09:50Z",
+            "open_issues": 185,
             "owner": "apache",
             "repo": "pouchdb",
-            "stars": 17601
+            "stars": 17601,
+            "topics": [
+              "couchdb",
+              "database",
+              "hacktoberfest",
+              "javascript",
+              "pouchdb"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -396,12 +700,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management",
+            "homepage": "https://kops.sigs.k8s.io/",
             "id": 62091339,
             "language": "Go",
-            "last_commit": "2026-08-28T14:34:06Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:34:22Z",
+            "open_issues": 132,
             "owner": "kubernetes",
             "repo": "kops",
-            "stars": 16670
+            "stars": 16671,
+            "topics": [
+              "cncf",
+              "containers",
+              "go",
+              "kops",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -412,12 +727,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go development plugin for Vim",
+            "homepage": "https://www.patreon.com/bhcleek",
             "id": 18062944,
             "language": "Vim Script",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-23T13:41:54Z",
+            "open_issues": 44,
             "owner": "fatih",
             "repo": "vim-go",
-            "stars": 16216
+            "stars": 16218,
+            "topics": [
+              "go",
+              "golang",
+              "gopls",
+              "hacktoberfest",
+              "lps",
+              "vim",
+              "vim-go",
+              "vim-plugins",
+              "viml"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -428,12 +758,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network abstraction layer written in Swift.",
+            "homepage": "https://moya.github.io",
             "id": 23013268,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-14T22:07:40Z",
+            "open_issues": 177,
             "owner": "Moya",
             "repo": "Moya",
-            "stars": 15358
+            "stars": 15358,
+            "topics": [
+              "alamofire",
+              "hacktoberfest",
+              "networking",
+              "reactiveswift",
+              "rxswift",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -444,12 +786,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Postgres CLI with autocompletion and syntax highlighting",
+            "homepage": "http://pgcli.com",
             "id": 25126616,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T10:21:06Z",
+            "open_issues": 42,
             "owner": "dbcli",
             "repo": "pgcli",
-            "stars": 13370
+            "stars": 13370,
+            "topics": [
+              "database",
+              "postgres",
+              "postgresql",
+              "psql",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -460,12 +813,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PostgreSQL client for node.js.",
+            "homepage": "https://node-postgres.com",
             "id": 991475,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T22:27:03Z",
+            "open_issues": 518,
             "owner": "brianc",
             "repo": "node-postgres",
-            "stars": 13198
+            "stars": 13198,
+            "topics": [
+              "libpq",
+              "node-postgres",
+              "postgres",
+              "postgresql",
+              "postgresql-driver"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -476,12 +840,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+            "homepage": "https://docs.rubocop.org",
             "id": 4095287,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:17:49Z",
+            "open_issues": 144,
             "owner": "rubocop",
             "repo": "rubocop",
-            "stars": 12898
+            "stars": 12898,
+            "topics": [
+              "code-formatter",
+              "hacktoberfest",
+              "linter",
+              "rubocop",
+              "ruby",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -492,12 +868,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Clojure programming language",
+            "homepage": "https://clojure.org",
             "id": 747512,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-25T19:26:35Z",
+            "open_issues": 0,
             "owner": "clojure",
             "repo": "clojure",
-            "stars": 10956
+            "stars": 10956,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -508,12 +889,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bayesian Modeling and Probabilistic Programming in Python",
+            "homepage": "https://www.pymc.io",
             "id": 192904,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T17:30:00Z",
+            "open_issues": 491,
             "owner": "pymc-devs",
             "repo": "pymc",
-            "stars": 9728
+            "stars": 9728,
+            "topics": [
+              "bayesian-inference",
+              "mcmc",
+              "probabilistic-programming",
+              "pytensor",
+              "python",
+              "statistical-analysis",
+              "variational-inference"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -524,12 +918,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code that powers readthedocs.org",
+            "homepage": "https://readthedocs.org/",
             "id": 841835,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T18:28:40Z",
+            "open_issues": 391,
             "owner": "readthedocs",
             "repo": "readthedocs.org",
-            "stars": 8379
+            "stars": 8379,
+            "topics": [
+              "docs",
+              "mkdocs",
+              "python",
+              "sphinx",
+              "sphinx-doc"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -540,12 +945,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiler for Elm, a functional language for reliable webapps.",
+            "homepage": "https://elm-lang.org/",
             "id": 4072305,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-26T07:47:17Z",
+            "open_issues": 304,
             "owner": "elm",
             "repo": "compiler",
-            "stars": 7889
+            "stars": 7890,
+            "topics": [
+              "compiler",
+              "elm"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -556,12 +969,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+            "homepage": "https://couchdb.apache.org/",
             "id": 206417,
             "language": "Erlang",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:57:07Z",
+            "open_issues": 368,
             "owner": "apache",
             "repo": "couchdb",
-            "stars": 6944
+            "stars": 6944,
+            "topics": [
+              "big-data",
+              "cloud",
+              "content",
+              "couchdb",
+              "database",
+              "erlang",
+              "http",
+              "javascript",
+              "network-client",
+              "network-server"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -572,12 +1001,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Storm",
+            "homepage": "https://storm.apache.org/",
             "id": 14135470,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T07:34:40Z",
+            "open_issues": 31,
             "owner": "apache",
             "repo": "storm",
-            "stars": 6698
+            "stars": 6698,
+            "topics": [
+              "apache",
+              "distributed",
+              "storm",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -593,24 +1032,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ceejbot's talk from JSConfEU 2019",
+                "homepage": null,
                 "id": 189234320,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-06-10T09:05:53Z",
+                "open_issues": 7,
                 "owner": "ceejbot",
                 "repo": "economics-of-package-management",
-                "stars": 480
+                "stars": 480,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:41:54.485Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝",
+            "homepage": "https://discourse.entropic.dev/",
             "id": 182423586,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-03T23:46:54Z",
+            "open_issues": 158,
             "owner": "entropic-dev",
             "repo": "entropic",
-            "stars": 5242
+            "stars": 5242,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -621,12 +1070,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚙️ WP-CLI framework",
+            "homepage": "https://wp-cli.org/",
             "id": 2360755,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:07:11Z",
+            "open_issues": 27,
             "owner": "wp-cli",
             "repo": "wp-cli",
-            "stars": 5141
+            "stars": 5141,
+            "topics": [
+              "cli",
+              "framework",
+              "hacktoberfest",
+              "php",
+              "wordpress",
+              "wp-cli"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -637,12 +1098,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+            "homepage": "https://spack.io",
             "id": 15730865,
             "language": "Python",
-            "last_commit": "2026-08-28T17:38:36Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:58:29Z",
+            "open_issues": 1803,
             "owner": "spack",
             "repo": "spack",
-            "stars": 5116
+            "stars": 5116,
+            "topics": [
+              "build-tools",
+              "hpc",
+              "hpsf",
+              "linux",
+              "macos",
+              "package-manager",
+              "python",
+              "radiuss",
+              "scientific-computing",
+              "spack",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -653,12 +1131,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an application that automates the lifecycle of servers ",
+            "homepage": "https://theforeman.org",
             "id": 258750,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T15:42:48Z",
+            "open_issues": 114,
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2908
+            "stars": 2909,
+            "topics": [
+              "cloud",
+              "config-management",
+              "foreman",
+              "hacktoberfest",
+              "hybrid-cloud",
+              "infrastructure",
+              "infrastructure-management",
+              "maas",
+              "provisioning",
+              "puppet",
+              "rails",
+              "ruby",
+              "theforeman",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -669,12 +1167,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The gossip and replication server for Secure Scuttlebutt - a distributed social network",
+            "homepage": null,
             "id": 25894747,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-06-17T15:11:15Z",
+            "open_issues": 41,
             "owner": "ssbc",
             "repo": "ssb-server",
-            "stars": 1702
+            "stars": 1702,
+            "topics": [
+              "gossip",
+              "javascript",
+              "scuttlebot",
+              "scuttlebutt"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -685,12 +1193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rack-based asset packaging system",
+            "homepage": null,
             "id": 32104924,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-25T14:29:33Z",
+            "open_issues": 113,
             "owner": "rails",
             "repo": "sprockets",
-            "stars": 986
+            "stars": 986,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -701,12 +1214,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-memory nucleotide sequence k-mer counting, filtering, graph traversal and more",
+            "homepage": "http://khmer.readthedocs.io/",
             "id": 4331833,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-17T11:37:33Z",
+            "open_issues": 353,
             "owner": "dib-lab",
             "repo": "khmer",
-            "stars": 790
+            "stars": 790,
+            "topics": [
+              "bioinformatics",
+              "bloom-filter",
+              "count-min-sketch",
+              "dna",
+              "graph-traversal",
+              "k-mer",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -717,12 +1243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "slugifies even utf-8 chars!",
+            "homepage": null,
             "id": 154614115,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T12:40:54Z",
+            "open_issues": 6,
             "owner": "Trott",
             "repo": "slug",
-            "stars": 411
+            "stars": 411,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -733,12 +1264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+            "homepage": "http://redis.io",
             "id": 960061807,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T11:07:27Z",
+            "open_issues": 0,
             "owner": "antirez",
             "repo": "redis",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         },
@@ -749,12 +1285,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OPAL boot and runtime firmware for POWER",
+            "homepage": null,
             "id": 21414075,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T18:05:31Z",
+            "open_issues": 68,
             "owner": "open-power",
             "repo": "skiboot",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "bmc",
+              "c",
+              "firmware",
+              "kernel",
+              "linux",
+              "opal",
+              "openpower",
+              "power8",
+              "power9",
+              "powerpc",
+              "ppc64le"
+            ]
           },
           "first_seen": "2026-08-28T23:41:54.485Z"
         }
@@ -763,15 +1316,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:41:54.485Z",
+    "last_updated": "2026-08-29T04:35:09.017Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Talks, blog posts, and interviews about the experience of being an open source maintainer",
+      "homepage": null,
       "id": 118960100,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2021-08-16T16:23:57Z",
+      "open_issues": 0,
       "owner": "nayafia",
       "repo": "awesome-maintainers",
-      "stars": 1170
+      "stars": 1170,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "bb996d66445fc441175ab5ae84d471a246a7cfaf",
     "enhanced_repository": "enhansome/enhansome-maintainers",

@@ -2,89 +2,89 @@
 
 > Talks, blog posts, and interviews about the experience of being an open source maintainer
 
-* [@gaearon](https://github.com/gaearon), [React](https://github.com/facebook/react) ⭐ 250,490 | 🐛 1,373 | 🌐 JavaScript | 📅 2026-09-16, [Redux](https://github.com/reactjs/redux) ⭐ 61,482 | 🐛 25 | 🌐 TypeScript | 📅 2026-09-16
+* [@gaearon](https://github.com/gaearon), [React](https://github.com/facebook/react) ⭐ 250,539 | 🐛 1,375 | 🌐 JavaScript | 📅 2026-09-17, [Redux](https://github.com/reactjs/redux) ⭐ 61,482 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-17
   * "Maintaining Open Source Projects: Dan Abramov" ([interview](https://www.youtube.com/watch?v=-QbyRas7gUA))
-* [@fat](https://github.com/fat), [Bootstrap](https://github.com/twbs/bootstrap/) ⭐ 174,818 | 🐛 236 | 🌐 MDX | 📅 2026-09-15
+* [@fat](https://github.com/fat), [Bootstrap](https://github.com/twbs/bootstrap/) ⭐ 174,835 | 🐛 237 | 🌐 MDX | 📅 2026-09-15
   * "What is open source and why do I feel so guilty?" ([video](https://www.youtube.com/watch?v=UIDb6VBO9os), [slides](http://fat.github.io/slides-os-guilt/))
-* [@kelset](https://github.com/kelset), [React Native](https://github.com/facebook/react-native) ⭐ 126,628 | 🐛 1,146 | 🌐 C++ | 📅 2026-09-16
+* [@kelset](https://github.com/kelset), [React Native](https://github.com/facebook/react-native) ⭐ 126,637 | 🐛 1,146 | 🌐 C++ | 📅 2026-09-17
   * "All Hands on Deck: The React Native Community Experience" ([video](https://youtu.be/OVzMw3vYrDI), [slides](https://speakerdeck.com/kelset/all-hands-on-deck-the-rn-community-experience))
-* [@vjeux](https://github.com/vjeux), [React Native](https://github.com/facebook/react-native) ⭐ 126,628 | 🐛 1,146 | 🌐 C++ | 📅 2026-09-16, [Prettier](https://github.com/prettier/prettier) ⭐ 52,332 | 🐛 1,437 | 🌐 JavaScript | 📅 2026-09-16
+* [@vjeux](https://github.com/vjeux), [React Native](https://github.com/facebook/react-native) ⭐ 126,637 | 🐛 1,146 | 🌐 C++ | 📅 2026-09-17, [Prettier](https://github.com/prettier/prettier) ⭐ 52,382 | 🐛 1,435 | 🌐 JavaScript | 📅 2026-09-17
   * "Being Successful at Open Source" ([video](https://www.youtube.com/watch?v=nRF0OVQL9Nw))
-* [@jacobian](https://github.com/jacobian), [Django](https://github.com/django/django) ⭐ 91,066 | 🐛 502 | 🌐 Python | 📅 2026-09-16
+* [@jacobian](https://github.com/jacobian), [Django](https://github.com/django/django) ⭐ 91,126 | 🐛 502 | 🌐 Python | 📅 2026-09-17
   * "What Part of '... for Life' Don't You Understand?" ([video](https://www.youtube.com/watch?v=EqcuzSwySR4))
-* [@mlavin](https://github.com/mlavin), [Django](https://github.com/django/django) ⭐ 91,066 | 🐛 502 | 🌐 Python | 📅 2026-09-16
+* [@mlavin](https://github.com/mlavin), [Django](https://github.com/django/django) ⭐ 91,126 | 🐛 502 | 🌐 Python | 📅 2026-09-17
   * "Maintaining Your Sanity While Maintaining Your Open Source App" ([video](https://www.youtube.com/watch?v=xgWFTrXn0_U))
-* [@mpdehaan](https://github.com/mpdehaan), [Ansible](https://github.com/ansible/ansible) ⭐ 70,699 | 🐛 830 | 🌐 Python | 📅 2026-09-16, [SourceOptics](https://bitbucket.org/laserllama/sourceoptics/src/master/)
+* [@mpdehaan](https://github.com/mpdehaan), [Ansible](https://github.com/ansible/ansible) ⭐ 70,715 | 🐛 836 | 🌐 Python | 📅 2026-09-16, [SourceOptics](https://bitbucket.org/laserllama/sourceoptics/src/master/)
   * "Michael DeHaan on creating Ansible and SourceOptics" ([interview](https://www.sourcesort.com/interview/michael-dehaan-on-creating-ansible-and-sourceoptics))
-* [@jeresig](https://github.com/jeresig), [jQuery](https://github.com/jquery/jquery) ⭐ 59,776 | 🐛 102 | 🌐 JavaScript | 📅 2026-09-08
+* [@jeresig](https://github.com/jeresig), [jQuery](https://github.com/jquery/jquery) ⭐ 59,777 | 🐛 102 | 🌐 JavaScript | 📅 2026-09-08
   * "Walking Away From Your Open Source Project: John Resig" ([interview](https://www.youtube.com/watch?v=K9HGec2RA-Q))
-* [@steveklabnik](https://github.com/steveklabnik), [Ruby on Rails](https://github.com/rails/rails) ⭐ 58,764 | 🐛 1,633 | 🌐 Ruby | 📅 2026-09-16
+* [@steveklabnik](https://github.com/steveklabnik), [Ruby on Rails](https://github.com/rails/rails) ⭐ 58,768 | 🐛 1,640 | 🌐 Ruby | 📅 2026-09-17
   * "How to be an open source gardener" ([post](http://words.steveklabnik.com/how-to-be-an-open-source-gardener))
-* [@kennethreitz](https://github.com/kennethreitz), [requests](https://github.com/requests/requests) ⭐ 54,306 | 🐛 237 | 🌐 Python | 📅 2026-09-07
+* [@kennethreitz](https://github.com/kennethreitz), [requests](https://github.com/requests/requests) ⭐ 54,317 | 🐛 239 | 🌐 Python | 📅 2026-09-07
   * "The Reality of Developer Burnout" ([post](https://www.kennethreitz.org/essays/the-reality-of-developer-burnout))
-* [@alyssais](https://github.com/alyssais), [Homebrew](https://github.com/Homebrew/brew) ⭐ 49,680 | 🐛 1 | 🌐 Ruby | 📅 2026-09-16
+* [@alyssais](https://github.com/alyssais), [Homebrew](https://github.com/Homebrew/brew) ⭐ 49,698 | 🐛 1 | 🌐 Ruby | 📅 2026-09-17
   * "Why I helped maintain Homebrew" ([video](https://vimeo.com/276832570))
-* [@hzoo](https://github.com/hzoo), [Babel](https://github.com/babel/babel) ⭐ 43,998 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-15
+* [@hzoo](https://github.com/hzoo), [Babel](https://github.com/babel/babel) ⭐ 43,999 | 🐛 768 | 🌐 TypeScript | 📅 2026-09-17
   * "Through the Open Source Looking Glass" ([video](https://www.youtube.com/watch?v=h0sfFX7WH1c), [slides](https://github.com/hzoo/through-the-open-source-looking-glass) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-22)
   * "(Open) source of anxiety" ([post](https://increment.com/open-source/open-source-of-anxiety/))
   * "Maintainer, heal thyself" ([video](https://www.youtube.com/watch?v=iFgSvLUzQSU), [slides](https://hzoo.github.io/maintainer-heal-thyself/assets/player/KeynoteDHTMLPlayer.html#0))
   * "Maintainer Stories: Henry Zhu" ([interview](https://github.com/open-source/stories/hzoo))
   * "Maintaining an OSS project" ([video](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_\&v=_iToM2KC0QE), [slides](https://hzoo.github.io/maintaining-an-oss-project/assets/player/KeynoteDHTMLPlayer.html#0))
-* [@sebmck](https://github.com/sebmck), [Babel](https://github.com/babel/babel) ⭐ 43,998 | 🐛 771 | 🌐 TypeScript | 📅 2026-09-15
+* [@sebmck](https://github.com/sebmck), [Babel](https://github.com/babel/babel) ⭐ 43,999 | 🐛 768 | 🌐 TypeScript | 📅 2026-09-17
   * "\~2015 in review" ([post](https://medium.com/@sebmck/2015-in-review-51ac7035e272))
-* [@KrauseFx](https://github.com/krausefx), [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,116 | 🐛 669 | 🌐 Ruby | 📅 2026-09-16
+* [@KrauseFx](https://github.com/krausefx), [fastlane](https://github.com/fastlane/fastlane) ⭐ 42,122 | 🐛 668 | 🌐 Ruby | 📅 2026-09-17
   * "Scaling open source communities" ([post](https://krausefx.com/blog/scaling-open-source-communities))
-* [@feross](http://github.com/feross), [WebTorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,393 | 🐛 84 | 🌐 JavaScript | 📅 2026-09-15
+* [@feross](http://github.com/feross), [WebTorrent](https://github.com/webtorrent/webtorrent) ⭐ 31,397 | 🐛 84 | 🌐 JavaScript | 📅 2026-09-15
   * "Recap of the `funding` experiment" ([post](https://feross.org/funding-experiment-recap/))
   * "What I learned from WebTorrent: Lessons learned from starting and running a P2P open source project" ([slides](https://speakerdeck.com/feross/what-i-learned-from-webtorrent))
-* [@Seldaek](https://github.com/Seldaek), [Composer](https://github.com/composer/composer) ⭐ 29,521 | 🐛 165 | 🌐 PHP | 📅 2026-09-10
+* [@Seldaek](https://github.com/Seldaek), [Composer](https://github.com/composer/composer) ⭐ 29,522 | 🐛 164 | 🌐 PHP | 📅 2026-09-10
   * "Behind the Scenes of Maintaining an Open Source Project" ([video](https://www.youtube.com/watch?v=Ci_I0ATr748))
 * [@ariya](https://github.com/ariya), [PhantomJS](https://github.com/ariya/phantomjs) ⚠️ Archived
   * "Maintainer Stories: Ariya Hidayat" ([interview](https://github.com/open-source/stories/ariya))
-* [@mikeal](https://github.com/mikeal), [request](https://github.com/request/request/) ⭐ 25,504 | 🐛 143 | 🌐 JavaScript | 📅 2024-08-14
-  * "Request's Past, Present and Future" ([post](https://github.com/request/request/issues/3142) ⭐ 25,504 | 🐛 143 | 🌐 JavaScript | 📅 2024-08-14)
-* [@lmccart](https://github.com/lmccart), [p5.js](https://github.com/processing/p5.js) ⭐ 23,992 | 🐛 528 | 🌐 JavaScript | 📅 2026-09-16
+* [@mikeal](https://github.com/mikeal), [request](https://github.com/request/request/) ⭐ 25,506 | 🐛 144 | 🌐 JavaScript | 📅 2024-08-14
+  * "Request's Past, Present and Future" ([post](https://github.com/request/request/issues/3142) ⭐ 25,506 | 🐛 144 | 🌐 JavaScript | 📅 2024-08-14)
+* [@lmccart](https://github.com/lmccart), [p5.js](https://github.com/processing/p5.js) ⭐ 23,998 | 🐛 529 | 🌐 JavaScript | 📅 2026-09-16
   * "Design, Software, and Open Source" ([interview](https://changelog.com/rfc/19))
-* [@boneskull](https://github.com/boneskull), [Mocha](https://github.com/mochajs/mocha) ⭐ 22,895 | 🐛 224 | 🌐 JavaScript | 📅 2026-09-16
+* [@boneskull](https://github.com/boneskull), [Mocha](https://github.com/mochajs/mocha) ⭐ 22,894 | 🐛 221 | 🌐 JavaScript | 📅 2026-09-17
   * "Maintaining a Popular Project and Managing Burnout" ([interview](https://changelog.com/rfc/15))
-* [@sindresorhus](https://github.com/sindresorhus), [AVA](https://github.com/avajs/ava) ⭐ 20,827 | 🐛 78 | 🌐 JavaScript | 📅 2026-06-17, [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,683 | 🐛 106 | 📅 2026-09-02
+* [@sindresorhus](https://github.com/sindresorhus), [AVA](https://github.com/avajs/ava) ⭐ 20,828 | 🐛 78 | 🌐 JavaScript | 📅 2026-06-17, [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,097 | 🐛 106 | 📅 2026-09-02
   * "Between the Wires: An interview with open source developer Sindre Sorhus" ([interview](https://medium.freecodecamp.org/sindre-sorhus-8426c0ed785d))
 * [@nolanlawson](https://github.com/nolanlawson), [PouchDB](https://github.com/pouchdb/pouchdb) ⭐ 17,609 | 🐛 189 | 🌐 JavaScript | 📅 2026-09-13
   * "What it feels like to be an open-source maintainer" ([post](https://nolanlawson.com/2017/03/05/what-it-feels-like-to-be-an-open-source-maintainer/))
-* [@kris-nova](https://github.com/kris-nova), [kubernetes-kops](https://github.com/kubernetes/kops) ⭐ 16,676 | 🐛 132 | 🌐 Go | 📅 2026-09-13
+* [@kris-nova](https://github.com/kris-nova), [kubernetes-kops](https://github.com/kubernetes/kops) ⭐ 16,677 | 🐛 129 | 🌐 Go | 📅 2026-09-17
   * "Maintainer Stories: Kris Nova" ([interview](https://github.com/open-source/stories/kris-nova))
 * [@fatih](https://github.com/fatih), [vim-go](https://github.com/fatih/vim-go) ⭐ 16,219 | 🐛 44 | 🌐 Vim Script | 📅 2026-08-23
   * "Taking an indefinite sabbatical from my projects" ([post](https://arslan.io/2018/10/09/taking-an-indefinite-sabbatical-from-my-projects/))
-* [@ashfurrow](https://github.com/ashfurrow), [Moya](https://github.com/moya/moya) ⭐ 15,355 | 🐛 176 | 🌐 Swift | 📅 2026-07-14
+* [@ashfurrow](https://github.com/ashfurrow), [Moya](https://github.com/moya/moya) ⭐ 15,357 | 🐛 176 | 🌐 Swift | 📅 2026-07-14
   * "Building Open Source Communities" ([slides](https://speakerdeck.com/ashfurrow/building-open-source-communities))
-* [@amjith](https://github.com/amjith), [pgcli](https://github.com/dbcli/pgcli) ⭐ 13,389 | 🐛 42 | 🌐 Python | 📅 2026-09-16
+* [@amjith](https://github.com/amjith), [pgcli](https://github.com/dbcli/pgcli) ⭐ 13,390 | 🐛 45 | 🌐 Python | 📅 2026-09-16
   * "Maintainer Stories: Amjith Ramanujam" ([video](https://www.youtube.com/watch?v=paS09pRV8bY))
 * [@brianc](https://github.com/brianc), [node-postgres](https://github.com/brianc/node-postgres) ⭐ 13,209 | 🐛 528 | 🌐 JavaScript | 📅 2026-09-11
   * "Creating and maintaining node-postgres solo" ([interview](https://sourcesort.com/interview/brian-carlson-on-creating-and-maintaing-node-pg-solo))
-* [@bbatsov](https://github.com/bbatsov), [Rubocop](https://github.com/rubocop-hq/rubocop) ⭐ 12,903 | 🐛 145 | 🌐 Ruby | 📅 2026-09-16
+* [@bbatsov](https://github.com/bbatsov), [Rubocop](https://github.com/rubocop-hq/rubocop) ⭐ 12,903 | 🐛 140 | 🌐 Ruby | 📅 2026-09-17
   * "Interview with Bozhidar Batsov: The Creator’s Thoughts on RuboCop and the Ruby Style Guide" ([post](https://blog.sideci.com/interview-with-bozhidar-batsov-99b049b6fd6a))
-* [@stuarthalloway](https://github.com/stuarthalloway), [Clojure](https://github.com/clojure/clojure) ⭐ 10,957 | 🐛 0 | 🌐 Java | 📅 2026-09-15
+* [@stuarthalloway](https://github.com/stuarthalloway), [Clojure](https://github.com/clojure/clojure) ⭐ 10,959 | 🐛 0 | 🌐 Java | 📅 2026-09-15
   * "Stewardship Made Practical" ([video](https://www.youtube.com/watch?v=_sEOXNmzv4g))
-* [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3) ⭐ 9,753 | 🐛 503 | 🌐 Python | 📅 2026-09-14
+* [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3) ⭐ 9,754 | 🐛 503 | 🌐 Python | 📅 2026-09-14
   * "Two Years of Open Source" ([slides/post](https://colcarroll.github.io/open_source_pa/))
-* [@ericholscher](https://github.com/ericholscher), [Read the Docs](https://github.com/rtfd/readthedocs.org) ⭐ 8,386 | 🐛 392 | 🌐 Python | 📅 2026-09-16
+* [@ericholscher](https://github.com/ericholscher), [Read the Docs](https://github.com/rtfd/readthedocs.org) ⭐ 8,387 | 🐛 394 | 🌐 Python | 📅 2026-09-17
   * "Maintainer Stories: Eric Holscher" ([video](https://www.youtube.com/watch?v=us_3IGG6leM\&t=1s))
   * "The post I never published" ([post](http://ericholscher.com/blog/2018/feb/7/the-post-i-never-published/))
-* [@evancz](https://github.com/evancz), [Elm](https://github.com/elm/compiler) ⭐ 7,904 | 🐛 305 | 🌐 Haskell | 📅 2026-08-26
+* [@evancz](https://github.com/evancz), [Elm](https://github.com/elm/compiler) ⭐ 7,905 | 🐛 305 | 🌐 Haskell | 📅 2026-08-26
   * "The Hard Parts of Open Source" ([video](https://www.youtube.com/watch?v=o_4EX4dPppA), [slides](https://prezi.com/oowcpzsnwp-8/the-hard-parts-of-open-source/))
   * "On Storytelling" ([video](https://www.deconstructconf.com/2017/evan-czaplicki-on-storytelling))
-* [@janl](https://github.com/janl), [CouchDB](https://github.com/apache/couchdb) ⭐ 6,952 | 🐛 374 | 🌐 Erlang | 📅 2026-09-16
+* [@janl](https://github.com/janl), [CouchDB](https://github.com/apache/couchdb) ⭐ 6,952 | 🐛 374 | 🌐 Erlang | 📅 2026-09-17
   * "Sustainable Open Source: The Maintainers Perspective or: How I Learned to Stop Caring and Love Open Source" ([post](http://writing.jan.io/2017/03/06/sustainable-open-source-the-maintainers-perspective-or-how-i-learned-to-stop-caring-and-love-open-source.html))
 * [@nathanmarz](https://github.com/nathanmarz), [Apache Storm](https://github.com/apache/storm) ⭐ 6,694 | 🐛 35 | 🌐 Java | 📅 2026-09-15
   * "History of Apache Storm and lessons learned" ([post](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html))
-* [@ceejbot](https://github.com/ceejbot), [Entropic](https://github.com/entropic-dev/entropic) ⭐ 5,241 | 🐛 158 | 🌐 JavaScript | 📅 2023-01-03, [npm](https://github.com/npm/cli) ⭐ 10,117 | 🐛 769 | 🌐 JavaScript | 📅 2026-09-10
+* [@ceejbot](https://github.com/ceejbot), [Entropic](https://github.com/entropic-dev/entropic) ⭐ 5,241 | 🐛 158 | 🌐 JavaScript | 📅 2023-01-03, [npm](https://github.com/npm/cli) ⭐ 10,117 | 🐛 765 | 🌐 JavaScript | 📅 2026-09-16
   * "The economics of open source" ([video](https://www.youtube.com/watch?v=MO8hZlgK5zc), [post](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md) ⭐ 480 | 🐛 7 | 📅 2019-06-10)
-* [@danielbachhuber](https://github.com/danielbachhuber), [wp-cli](https://github.com/wp-cli/wp-cli) ⭐ 5,149 | 🐛 21 | 🌐 PHP | 📅 2026-09-15
+* [@danielbachhuber](https://github.com/danielbachhuber), [wp-cli](https://github.com/wp-cli/wp-cli) ⭐ 5,149 | 🐛 21 | 🌐 PHP | 📅 2026-09-17
   * "Experiments and the Economics of Open Source" ([interview](https://changelog.com/rfc/17))
   * "My condolences, you're now the maintainer of a popular open source project" ([video](https://www.youtube.com/watch?v=ll_lmDZUD4o), [post](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/))
-* [@tgamblin](https://github.com/tgamblin), [Spack](https://github.com/spack/spack) ⭐ 5,124 | 🐛 1,808 | 🌐 Python | 📅 2026-09-16
+* [@tgamblin](https://github.com/tgamblin), [Spack](https://github.com/spack/spack) ⭐ 5,125 | 🐛 1,804 | 🌐 Python | 📅 2026-09-17
   * "Open Source and Supercomputers (Spack)" ([interview](https://changelog.com/rfc/13))
-* [@tbrisker](https://github.com/tbrisker), [Foreman](https://github.com/theforeman/foreman) ⭐ 2,916 | 🐛 102 | 🌐 Ruby | 📅 2026-09-16
+* [@tbrisker](https://github.com/tbrisker), [Foreman](https://github.com/theforeman/foreman) ⭐ 2,916 | 🐛 100 | 🌐 Ruby | 📅 2026-09-17
   * "On maintaining Foreman" ([video](https://vimeo.com/276832413))
 * [@dominictarr](https://github.com/dominictarr), [scuttlebot](https://github.com/ssbc/scuttlebot) ⭐ 1,703 | 🐛 41 | 🌐 JavaScript | 📅 2022-06-17 and others
   * "Statement on event-stream compromise" ([post](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a))
@@ -165,4 +165,4 @@ This list is available under the Creative Commons CC0 1.0 License, meaning you a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
